@@ -2,9 +2,9 @@ html, body{
     
     font-family: Arial, sans-serif;
     height: auto;
-
     width: 80%;
     margin: 0 auto;
+
    
    
 }
@@ -13,14 +13,22 @@ div{
     background-color: azure;
     padding: 20px;
     margin: 20px;
+    color: #261FB3
     
    
 }
 
+.playwrite{
+    
+    font-family: "Anonymous Pro", monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
+
 table{
     width: 80%;
     margin-left: 50px;
-    border-radius: 30px;
+    
     padding:0;
     
 }
@@ -28,7 +36,8 @@ table{
 table, th, td{
     border: 1px solid black;
     border-collapse: collapse;
-    padding: 5px;
+    
+    padding: 10px;
     text-align: center;
 
 }
